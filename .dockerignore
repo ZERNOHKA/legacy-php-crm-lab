@@ -1,0 +1,12 @@
+**
+!Dockerfile
+!docker/
+!docker/**
+!crm/
+!crm/**
+!scripts/
+!scripts/check-runtime.php
+crm/private/
+**/*.log
+**/*.key
+**/*.pem
